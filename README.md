@@ -24,14 +24,11 @@ The given images in the BIWI dataset has a wide perspective and hence it is impo
   
 Original Image - 
 
-<img src="https://github.com/Arnav0400/Headpose_Estimation/blob/master/image%20(1).png"
-     alt="Original Image"
-      />
+![Original](https://github.com/Arnav0400/Headpose_Estimation/blob/master/image.png "Original")
       
 Cropped Image-
 
 <img src="https://github.com/Arnav0400/Headpose_Estimation/blob/master/crop.png"
-     alt="Original Image"
      width="128" height="128" class="center" />
      
 Facial Heatmaps are extracted from the cropped image using openpose 
