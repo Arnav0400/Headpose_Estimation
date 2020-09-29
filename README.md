@@ -1,6 +1,6 @@
 # Headpose_Estimation
 
-Implementation of the state of the art paper in headpose estimation(https://arxiv.org/abs/1812.00739) on the BIWI kinect headpose data(https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db).
+Implementation of the paper in headpose estimation(https://arxiv.org/abs/1812.00739) on the BIWI kinect headpose data(https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db).
 
 ### Nose, eyes and ears: Head pose estimation by locating facial keypoints
 
